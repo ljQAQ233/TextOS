@@ -1,0 +1,19 @@
+
+
+-include /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/SigmaBootPkg/Boot/OUTPUT/File.obj.deps
+
+-include /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/SigmaBootPkg/Boot/OUTPUT/Graphics.obj.deps
+
+-include /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/SigmaBootPkg/Boot/OUTPUT/Main.obj.deps
+
+-include /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/SigmaBootPkg/Boot/OUTPUT/AutoGen.obj.deps
+
+-include /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/SigmaBootPkg/Boot/OUTPUT/Tools.obj.deps
+
+-include /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/SigmaBootPkg/Boot/OUTPUT/Kernel.obj.deps
+
+-include /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/SigmaBootPkg/Boot/OUTPUT/Elf.obj.deps
+
+-include /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/SigmaBootPkg/Boot/OUTPUT/Bmp.obj.deps
+
+               

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "console.h": "c",
+        "print.h": "c",
+        "textos.h": "c",
+        "simplefilesystem.h": "c",
+        "graphicsoutput.h": "c"
+    }
+}

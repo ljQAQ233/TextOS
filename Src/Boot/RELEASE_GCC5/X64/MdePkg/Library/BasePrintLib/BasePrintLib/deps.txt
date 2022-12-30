@@ -1,0 +1,10 @@
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Base.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Library/BaseLib.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Library/DebugLib.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Library/PcdLib.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Library/PrintLib.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/X64/ProcessorBind.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/BasePrintLib/PrintLib.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/BasePrintLib/PrintLibInternal.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/BasePrintLib/PrintLibInternal.h
+/home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/DEBUG/AutoGen.h

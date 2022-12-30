@@ -1,0 +1,8 @@
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiLib/Console.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiLib/UefiLibPrint.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiLib/UefiNotTiano.c
+/home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/DEBUG/AutoGen.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiLib/UefiLib.inf
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiLib/UefiLibInternal.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiLib/UefiLib.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiLib/UefiDriverModel.c

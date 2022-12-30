@@ -1,0 +1,11 @@
+/home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/X86Msr.obj:  /home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/BaseLib/X86Msr.c \
+ /home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h \
+ /home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Base.h \
+ /home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/X64/ProcessorBind.h \
+ /home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Library/PcdLib.h \
+ /home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/BaseLib/BaseLibInternals.h \
+ /home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Library/BaseLib.h \
+ /home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Library/BaseMemoryLib.h \
+ /home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/Library/DebugLib.h
+
+# Updated 

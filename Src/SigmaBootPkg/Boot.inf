@@ -1,0 +1,36 @@
+[Defines]
+    INF_VERSION = 0x00010006
+    BASE_NAME = SigmaBootPkg
+    FILE_GUID = fc54961b-f74c-4700-a8ca-204cea150681
+    MODULE_TYPE = UEFI_APPLICATION
+    VERSION_STRING = 1.0
+    ENTRY_POINT = UefiMain
+
+[Sources]
+    Main.c
+    Debug.c
+    Setting.c
+    SimpleIni.c
+    File.c
+    Elf.c
+    Kernel.c
+    Bmp.c
+    Font.c
+    Graphics.c
+    Tools.c
+
+[Packages]
+    MdePkg/MdePkg.dec
+
+[LibraryClasses]
+    UefiApplicationEntryPoint
+    UefiLib
+
+[Protocols]
+    gEfiSimpleFileSystemProtocolGuid
+    gEfiGraphicsOutputProtocolGuid
+
+[Guids]
+    gEfiFileInfoGuid
+[Buildoptions]
+    GCC:DEBUG_*_*_CC_FLAGS = -O0

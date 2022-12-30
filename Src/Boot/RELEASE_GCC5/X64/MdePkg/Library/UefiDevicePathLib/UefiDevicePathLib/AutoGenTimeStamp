@@ -1,0 +1,7 @@
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiDevicePathLib/DevicePathFromText.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiDevicePathLib/DevicePathToText.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiDevicePathLib/DevicePathUtilities.c
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib.h
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib.inf
+/home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/DEBUG/AutoGen.h

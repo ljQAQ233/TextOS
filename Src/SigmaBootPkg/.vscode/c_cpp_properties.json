@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "EDKII",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/maouai233/桌面/EDKII/MdePkg/Include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc-5",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": [
+                "-I/home/maouai233/桌面/EDKII/MdePkg/Include",
+                "-isystem /home/maouai233/桌面/EDKII/MdePkg/Include",
+                "-nostdlib",
+                "-fshort-wchar",
+                "-e UefiMain"
+            ],
+            "forcedInclude": [
+                "/home/maouai233/桌面/EDKII/MdePkg/Include/Base.h",
+                "/home/maouai233/桌面/EDKII/MdePkg/Include/Uefi.h",
+                "/home/maouai233/桌面/EDKII/MdePkg/Include/X64/ProcessorBind.h"
+            ]
+        }
+    ],
+    "version": 4
+}

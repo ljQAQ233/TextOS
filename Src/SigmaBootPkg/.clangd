@@ -1,0 +1,5 @@
+# .clangd
+CompileFlags:
+  Add:
+    - "-isystem"
+    - "/home/maouai233/Project/TextOS/Src/Boot/MdePkg/"

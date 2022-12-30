@@ -1,0 +1,7 @@
+/home/maouai233/Project/TextOS/Src/Boot/Conf/build_rule.txt
+/home/maouai233/Project/TextOS/Src/Boot/Conf/tools_def.txt
+/home/maouai233/Project/TextOS/Src/Boot/MdePkg/MdePkg.dec
+/home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/BuildOptions
+/home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/PcdTokenNumber
+/home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/TOOLS_DEF.X64
+/home/maouai233/Project/TextOS/Src/Boot/SigmaBootPkg/Boot.dsc

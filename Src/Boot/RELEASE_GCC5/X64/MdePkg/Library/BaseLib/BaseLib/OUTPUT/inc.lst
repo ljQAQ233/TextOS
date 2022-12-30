@@ -1,0 +1,7 @@
+-I/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/BaseLib/X64
+-I/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Library/BaseLib
+-I/home/maouai233/Project/TextOS/Src/Boot/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG
+-I/home/maouai233/Project/TextOS/Src/Boot/MdePkg
+-I/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include
+-I/home/maouai233/Project/TextOS/Src/Boot/MdePkg/Include/X64
+-I/home/maouai233/Project/TextOS/Src/Include

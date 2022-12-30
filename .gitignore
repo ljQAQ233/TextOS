@@ -1,0 +1,9 @@
+*.o
+*.log
+*.swap
+
+Build/
+
+Src/Base/ProjectStatus.log
+Src/Base/compile_commands.json
+Src/Base/udkdebugger.log
